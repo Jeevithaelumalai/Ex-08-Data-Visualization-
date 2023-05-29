@@ -129,6 +129,5 @@ plt.show()
 ![image](https://github.com/Jeevithaelumalai/Ex-08-Data-Visualization-/assets/118708245/cfb176c7-62d8-4f4f-a3c1-2d7c8849c188)
 ![image](https://github.com/Jeevithaelumalai/Ex-08-Data-Visualization-/assets/118708245/c5f1d819-850f-45b2-a948-a96313fe1ccc)
 ![image](https://github.com/Jeevithaelumalai/Ex-08-Data-Visualization-/assets/118708245/c9848681-d9e0-4e99-8f7c-ee9c0ea8e7f2)
-![image](https://github.com/Jeevithaelumalai/Ex-08-Data-Visualization-/assets/118708245/32e72b07-3cc3-4537-9814-18e3b5e81495)
 ![image](https://github.com/Jeevithaelumalai/Ex-08-Data-Visualization-/assets/118708245/f2f66c01-224b-40d8-b69e-552d9a8554f6)
 
