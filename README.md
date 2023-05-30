@@ -131,5 +131,5 @@ plt.show()
 ![image](https://github.com/Jeevithaelumalai/Ex-08-Data-Visualization-/assets/118708245/c9848681-d9e0-4e99-8f7c-ee9c0ea8e7f2)
 ![image](https://github.com/Jeevithaelumalai/Ex-08-Data-Visualization-/assets/118708245/f2f66c01-224b-40d8-b69e-552d9a8554f6)
 
-Result :
+# Result :
 Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
